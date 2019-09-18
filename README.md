@@ -13,6 +13,8 @@ step #1 :
   
   Once you have the command line open, type in "ipconfig" and press enter.
   
+  Next find the Ip address underneath 'Default Gateway'
   
+  ![](READMEImages/IPLogin.PNG)
   
   
