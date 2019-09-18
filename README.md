@@ -26,7 +26,7 @@ How to use :
   
   Once you have done this, find the Port Forwarding tab in your router.
   
-  Finally add what ever port you will be using for your minecraft server to the port forwarding list. 
+  Finally add what ever port you will be using for your minecraft server to the port forwarding list under UDP/TCP. 
   
   Minecraft servers most commonly use the port 25565, or 25575.
   
