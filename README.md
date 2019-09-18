@@ -46,4 +46,8 @@ First time Set up :
   
     -Simply press the red "offline" button in the bottom left and wait for it to go from "launching" to "Online".
     
+    ![]
+    
     - Once the CPU and RAM meters start working (changing numbers rapidly), you may not attempt to connect to the server using your       public Ip adress.  You may find this by going to https://whatismyipaddress.com
+    
+    
