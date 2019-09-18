@@ -20,9 +20,9 @@ How to use :
   
   Copy and paste this address into the browser and press enter.
   
-  Next you will want to login to your router.  The default in most cases is :
-  Username : admin
-  Password : (what ever your internet password is)
+  Next you will want to login to your router.  The default in most cases is 
+  (Username) : admin
+  (Password) : [what ever your internet password is]
   
   Once you have done this, find the Port Forwarding tab in your router.
   
