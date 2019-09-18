@@ -1,7 +1,7 @@
 # Sunshine-Server-Manager-v1.0
 The Sunshine Server Manager is a simple and easy to use way for people to host their own Minecraft server.  
 
-How to use :
+First time Set up :
 
 
 - Step 1 :
@@ -38,3 +38,12 @@ How to use :
 - Ready to go! 
   goodluck and have fun on your new Minecraft server!
   
+  
+  
+  How to use :
+  
+  - Turning on the server
+  
+    -Simply press the red "offline" button in the bottom left and wait for it to go from "launching" to "Online".
+    
+    - Once the 
