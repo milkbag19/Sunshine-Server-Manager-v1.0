@@ -37,6 +37,9 @@ First time Set up :
   
   Finnaly put the spigot file you just downloaded in the resources folder you download from this github.
   
+- Step 3 :
+  Open the 'eula.txt' file and change the "false" to "true".
+  
 - Ready to go! 
   goodluck and have fun on your new Minecraft server!
   
