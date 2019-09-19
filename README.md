@@ -47,7 +47,7 @@ How to use :
     
     ![](READMEImages/ServerLaunch.PNG)
     
-    - Once the CPU and RAM meters start working (changing numbers rapidly), you may not attempt to connect to the server using your       public Ip adress.  You may find this by going to https://whatismyipaddress.com and give this IP to your friends to connect.
+    - Once the CPU and RAM meters start working (changing numbers rapidly), you may attempt to connect to the server using your       public Ip adress.  You may find this by going to https://whatismyipaddress.com and give this IP to your friends to connect.
     
     - Settings changed in the 'settings' tab will only come into affect if you launch the server.  Therefore, if you change settings during server operation, the settings will come into affect the next restart/launch. 
     
