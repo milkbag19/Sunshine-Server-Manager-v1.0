@@ -33,7 +33,7 @@ First time Set up :
 - Step 2 :
   Go to https://getbukkit.org/download/spigot and download the spigot version 1.14.4
   
-  - **IMPORTANT** The spigot file must be named "spigot-1.14.4"!  This means if your file is named "spigot-1.14.4 (1)" it will not work!
+  **IMPORTANT** The spigot file must be named "spigot-1.14.4"!  This means if your file is named "spigot-1.14.4 (1)" it will not work!
   
   Finnaly put the spigot file you just downloaded in the resources folder you download from this github.
   
