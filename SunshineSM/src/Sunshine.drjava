@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<drjava version="drjava-20160913-225446">
+  <project autorefresh="false" build="../classes/" main="" root="" work="">
+    <createjar file=""/>
+    <source>
+      <file active="true" name="ServerMenu.java" package="" timestamp="16-Aug-2019 19:51:58">
+        <select from="1" to="1"/>
+        <scroll column="4" row="0"/>
+      </file>
+      <file name="AuthenticationException.java" package="" timestamp="13-Jul-2019 14:54:55">
+        <select from="1" to="1"/>
+        <scroll column="4" row="0"/>
+      </file>
+      <file name="FIO.java" package="" timestamp="13-Jul-2019 14:45:58">
+        <select from="1" to="1"/>
+        <scroll column="4" row="0"/>
+      </file>
+      <file name="JBox.java" package="" timestamp="15-Jun-2019 18:30:20">
+        <select from="1" to="1"/>
+        <scroll column="4" row="0"/>
+      </file>
+      <file name="MalformedPacketException.java" package="" timestamp="13-Jul-2019 14:54:55">
+        <select from="1" to="1"/>
+        <scroll column="4" row="0"/>
+      </file>
+      <file name="MineStat.java" package="" timestamp="27-Jul-2019 20:58:17">
+        <select from="1" to="1"/>
+        <scroll column="4" row="0"/>
+      </file>
+      <file name="ProgressCircleUI.java" package="" timestamp="04-Aug-2019 18:40:00">
+        <select from="1" to="1"/>
+        <scroll column="4" row="0"/>
+      </file>
+      <file name="Rcon.java" package="" timestamp="13-Jul-2019 14:56:02">
+        <select from="1" to="1"/>
+        <scroll column="4" row="0"/>
+      </file>
+      <file name="RconPacket.java" package="" timestamp="13-Jul-2019 14:56:05">
+        <select from="1" to="1"/>
+        <scroll column="4" row="0"/>
+      </file>
+      <file name="Server.java" package="" timestamp="13-Aug-2019 02:03:18">
+        <select from="1" to="1"/>
+        <scroll column="4" row="0"/>
+      </file>
+      <file name="StyledButtonUI.java" package="" timestamp="08-Aug-2019 16:25:08">
+        <select from="1" to="1"/>
+        <scroll column="4" row="0"/>
+      </file>
+      <file name="TschaException.java" package="" timestamp="13-Jul-2019 14:45:58">
+        <select from="1" to="1"/>
+        <scroll column="4" row="0"/>
+      </file>
+      <file name="TschaFIOException.java" package="" timestamp="13-Jul-2019 14:45:58">
+        <select from="1" to="1"/>
+        <scroll column="4" row="0"/>
+      </file>
+    </source>
+    <included/>
+    <excluded/>
+    <collapsed/>
+    <classpath/>
+    <breakpoints/>
+    <watches/>
+    <bookmarks/>
+    <preferences/>
+  </project>
+</drjava>
