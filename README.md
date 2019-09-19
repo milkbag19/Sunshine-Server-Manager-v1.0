@@ -39,8 +39,7 @@ First time Set up :
   goodluck and have fun on your new Minecraft server!
   
   
-  
-  How to use :
+How to use :
   
   - Turning on the server
   
