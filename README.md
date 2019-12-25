@@ -1,4 +1,7 @@
 # Sunshine-Server-Manager-v1.0
+
+# Troubleshooting at bottom
+
 The Sunshine Server Manager is a simple and easy to use way for people to host their own Minecraft server.  
 
 First time Set up :
