@@ -58,4 +58,4 @@ How to use :
     
     - This software is open source, so developers may change the program to their liking. 
     
-    
+- NOTE : Shutting down the server may be met with difficulties.  If unable to shutdown properly, press CTRL + SHIFT + ESC and close the JAVA application.  The server is often the application using the most RAM (memory).  
